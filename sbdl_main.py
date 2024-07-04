@@ -17,3 +17,4 @@ if __name__ == '__main__':
 
     logger.info("Finished creating Spark Session")
     logger.info("Finished creating Spark Session 2")
+    logger.info("Finished creating Spark Session 3")
